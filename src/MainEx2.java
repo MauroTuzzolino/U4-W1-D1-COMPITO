@@ -19,5 +19,7 @@ public class MainEx2 {
         String stringaConcatenata = "Quindi tu sei " + name + ", vieni da " + city + " e la tua professione è: " + job + ". Perfetto! Piacere di conoscerti.Mau";
 
         System.out.println(stringaConcatenata);
+
+        scanner.close();
     }
 }
