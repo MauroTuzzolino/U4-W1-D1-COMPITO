@@ -19,7 +19,7 @@ public class MainEx1 {
 
         System.out.println("---------------------------- TERZO PUNTO ----------------------------");
 
-        String[] animali = {"cane, gatto, pappagallo, pesce, coniglio"};
+        String[] animali = {"cane", "gatto ", "pappagallo", "pesce", "coniglio"};
         String animaleExtra = "criceto";
 
         String[] arrayFinale = inserisciInArray(animali, animaleExtra);
